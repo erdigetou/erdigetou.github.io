@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erdigetou.github.io/erdigetou.erdigetou
+Sitemap: https://erdigetou.github.io/app/erdigetou.erdigetou
+Sitemap: https://erdigetou.github.io/assets/erdigetou.erdigetou
+Sitemap: https://erdigetou.github.io/css/erdigetou.erdigetou
+Sitemap: https://erdigetou.github.io/includes/erdigetou.erdigetou
+Sitemap: https://erdigetou.github.io/item/erdigetou.erdigetou
+Sitemap: https://erdigetou.github.io/src/erdigetou.erdigetou
